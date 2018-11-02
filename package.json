@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
+	"merge": ">=1.2.1",
     "@uirouter/react": "^0.8.7",
     "@uirouter/visualizer": "^6.0.2",
     "axios": "^0.18.0",
@@ -20,6 +21,7 @@
     "build": "webpack --mode production"
   },
   "devDependencies": {
+	"merge": ">=1.2.1",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
